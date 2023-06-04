@@ -1,0 +1,11 @@
+{
+  "name": "qr-code-scanner",
+  "version": "1.0.0",
+  "description": "Scans QR codes from PNG files in a directory",
+  "main": "index.js",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "progress": "^2.0.3",
+    "qrcode-reader": "^1.0.4"
+  }
+}
