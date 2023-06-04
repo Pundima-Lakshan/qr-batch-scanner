@@ -1,16 +1,1 @@
-QR code value for ./special-qr-codes/B1.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B1.jpg
-QR code value for ./special-qr-codes/B11.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B11.jpg
-QR code value for ./special-qr-codes/B14.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B14.jpg
-QR code value for ./special-qr-codes/B17.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B17.jpg
-QR code value for ./special-qr-codes/B19.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B19.jpg
-QR code value for ./special-qr-codes/B2.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B2.jpg
-QR code value for ./special-qr-codes/B25.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B25.jpg
-QR code value for ./special-qr-codes/B26.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B26.jpg
-QR code value for ./special-qr-codes/B28.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B28.jpg
-QR code value for ./special-qr-codes/B29.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B29.jpg
-QR code value for ./special-qr-codes/B3.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B3.jpg
-QR code value for ./special-qr-codes/B34.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B34.jpg
-QR code value for ./special-qr-codes/B4.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B4.jpg
-QR code value for ./special-qr-codes/B6.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B6.jpg
-QR code value for ./special-qr-codes/B7.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B7.jpg
-QR code value for ./special-qr-codes/B8.png: https://storage.cloud.google.com/evento-react-app.appspot.com/B8.jpg
+
